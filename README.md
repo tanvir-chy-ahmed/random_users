@@ -95,7 +95,7 @@ This project uses:
 ## 👨‍💻 Developer
 
 **Tanvir Ahmed Chowdhury**  
-📧 [tanvir.ahmed@example.com]  
+📧 [tanvirchy269@gmail.com]  
 🔗 [LinkedIn](https://www.linkedin.com/in/tanvir-ahmed-chy-126191367/)  
 💻 [GitHub](https://github.com/tanvir-chy-ahmed)
 
