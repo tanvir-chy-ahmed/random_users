@@ -48,8 +48,7 @@ lib/
 
 | User List Screen | User Detail Screen |
 |------------------|--------------------|
-| ![List]![s1](https://github.com/user-attachments/assets/6aa2bde0-bc7f-480d-b89d-96f7bfcb4d51)
-() | ![Detail](![s2](https://github.com/user-attachments/assets/77833c55-2d8a-4429-9ad3-8a93a31bbcfe)
+| !(https://github.com/user-attachments/assets/6aa2bde0-bc7f-480d-b89d-96f7bfcb4d51) | !(https://github.com/user-attachments/assets/77833c55-2d8a-4429-9ad3-8a93a31bbcfe)
 ) |
 
 ---
